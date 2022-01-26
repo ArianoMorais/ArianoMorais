@@ -1,4 +1,4 @@
-### Oiee eu sou o ArianoMorais 👋
+### Oie eu sou o ArianoMorais 👋
 
 <div align="center">
   <a href="https://github.com/ArianoMorais">
