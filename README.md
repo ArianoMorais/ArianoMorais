@@ -1,10 +1,4 @@
 ### Oie eu sou o ArianoMorais 👋
-
-<div align="center">
-  <a href="https://github.com/ArianoMorais">
-
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArianoMorais&layout=compact&langs_count=7&theme=react"/>
-</div>
   
   ##
  
